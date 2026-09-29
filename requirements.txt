@@ -1,5 +1,6 @@
 streamlit
 numpy
 matplotlib
+scipy
 pillow
 streamlit-image-coordinates
